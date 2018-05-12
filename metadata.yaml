@@ -1,4 +1,8 @@
 _repo: Contes-de-lundi_50154
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50154-h/images/cover.jpg
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50154#Contes-de-lundi
 gutenberg_bookshelf:
 - FR Nouvelles
 - FR Nouveautés
